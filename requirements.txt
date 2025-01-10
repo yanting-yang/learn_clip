@@ -1,0 +1,6 @@
+datasets
+notebook
+numpy
+scikit-learn
+torchvision
+transformers[torch]
